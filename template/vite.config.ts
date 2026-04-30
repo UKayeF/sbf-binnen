@@ -18,9 +18,9 @@ export default defineConfig({
       includeAssets: ['favicon.ico', 'robots.txt'],
       manifest: {
         id: '/',
-        name: 'SBF Binnen Quiz',
-        short_name: 'SBF Quiz',
-        description: 'Quiz application for SBF Binnen questions',
+        name: 'Quiz App',
+        short_name: 'Quiz',
+        description: 'Quiz application',
         theme_color: '#1a1a2e',
         background_color: '#1a1a2e',
         display: 'standalone',

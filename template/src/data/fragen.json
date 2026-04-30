@@ -1,0 +1,27 @@
+{
+  "categories": {
+    "Category 1": [
+      {
+        "question": "Example question 1?",
+        "answers": [
+          {
+            "text": "Correct answer",
+            "isCorrect": true
+          },
+          {
+            "text": "Wrong answer 1",
+            "isCorrect": false
+          },
+          {
+            "text": "Wrong answer 2",
+            "isCorrect": false
+          },
+          {
+            "text": "Wrong answer 3",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+}

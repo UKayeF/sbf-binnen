@@ -65,7 +65,7 @@
         ]
       },
       {
-        "question": "Wie lang ist die Dauer eines kurzen Tons (",
+        "question": "Wie lang ist die Dauer eines kurzen Tons ( • )?",
         "answers": [
           {
             "text": "Etwa 1 Sekunde.",
@@ -86,7 +86,7 @@
         ]
       },
       {
-        "question": "Wie lang ist die Dauer eines langen Tons (",
+        "question": "Wie lang ist die Dauer eines langen Tons ( ▬ )?",
         "answers": [
           {
             "text": "Etwa 4 - 6 Sekunden.",
@@ -233,7 +233,7 @@
         ]
       },
       {
-        "question": "Was für eine Laterne kann ein Segelfahrzeug von weniger als 20 m Länge anstelle der Seitenlichter und des Hecklichtes",
+        "question": "Was für eine Laterne kann ein Segelfahrzeug von weniger als 20 m Länge anstelle der Seitenlichter und des Hecklichtes führen?",
         "answers": [
           {
             "text": "Eine Dreifarbenlaterne an oder nahe der Mastspitze.",
@@ -296,7 +296,7 @@
         ]
       },
       {
-        "question": "Zwei Motorboote nähern sich auf kreuzenden Kursen. Es besteht die Gefahr eines Zusammenstoßes. Wer ist",
+        "question": "Zwei Motorboote nähern sich auf kreuzenden Kursen. Es besteht die Gefahr eines Zusammenstoßes. Wer ist ausweichpflichtig?",
         "answers": [
           {
             "text": "Dasjenige Fahrzeug muss ausweichen, welches das Andere an seiner Steuerbordseite hat.",
@@ -337,7 +337,7 @@
           }
         ],
         "image": [
-          "/images/16.png"
+          "images/16.png"
         ]
       },
       {
@@ -361,7 +361,7 @@
           }
         ],
         "image": [
-          "/images/17.png"
+          "images/17.png"
         ]
       },
       {
@@ -385,7 +385,7 @@
           }
         ],
         "image": [
-          "/images/18.png"
+          "images/18.png"
         ]
       },
       {
@@ -409,7 +409,7 @@
           }
         ],
         "image": [
-          "/images/19.png"
+          "images/19.png"
         ]
       },
       {
@@ -433,7 +433,7 @@
           }
         ],
         "image": [
-          "/images/20.png"
+          "images/20.png"
         ]
       },
       {
@@ -457,7 +457,7 @@
           }
         ],
         "image": [
-          "/images/21.png"
+          "images/21.png"
         ]
       },
       {
@@ -481,7 +481,7 @@
           }
         ],
         "image": [
-          "/images/22.png"
+          "images/22.png"
         ]
       },
       {
@@ -505,8 +505,8 @@
           }
         ],
         "image": [
-          "/images/23-1.png",
-          "/images/23-2.png"
+          "images/23-1.png",
+          "images/23-2.png"
         ]
       },
       {
@@ -530,7 +530,7 @@
           }
         ],
         "image": [
-          "/images/24.png"
+          "images/24.png"
         ]
       },
       {
@@ -554,8 +554,8 @@
           }
         ],
         "image": [
-          "/images/25-1.png",
-          "/images/25-2.png"
+          "images/25-1.png",
+          "images/25-2.png"
         ]
       },
       {
@@ -579,7 +579,7 @@
           }
         ],
         "image": [
-          "/images/26.png"
+          "images/26.png"
         ]
       },
       {
@@ -603,7 +603,7 @@
           }
         ],
         "image": [
-          "/images/27.png"
+          "images/27.png"
         ]
       },
       {
@@ -627,7 +627,7 @@
           }
         ],
         "image": [
-          "/images/28.png"
+          "images/28.png"
         ]
       },
       {
@@ -651,7 +651,7 @@
           }
         ],
         "image": [
-          "/images/29.png"
+          "images/29.png"
         ]
       },
       {
@@ -675,11 +675,11 @@
           }
         ],
         "image": [
-          "/images/30.png"
+          "images/30.png"
         ]
       },
       {
-        "question": "Welches Merkblatt enthält Hinweise für das Verhalten zum Schutz seltener Tiere und Pflanzen sowie zur Reinhaltung der",
+        "question": "Welches Merkblatt enthält Hinweise für das Verhalten zum Schutz seltener Tiere und Pflanzen sowie zur Reinhaltung der Gewässer?",
         "answers": [
           {
             "text": "Die 10 goldenen Regeln für Wassersportler .",
@@ -700,7 +700,7 @@
         ]
       },
       {
-        "question": "Wie kann mitgeholfen werden, die Lebensmöglichkeiten der Pflanzen- und Tierwelt in Gewässern und Feuchtgebieten zu",
+        "question": "Wie kann mitgeholfen werden, die Lebensmöglichkeiten der Pflanzen- und Tierwelt in Gewässern und Feuchtgebieten zu erhalten?",
         "answers": [
           {
             "text": "Durch umweltbewusstes Verhalten und Beachtung der \"Zehn goldenen Regeln für das Verhalten von Wassersportlern in der Natur\".",
@@ -1099,7 +1099,7 @@
         ]
       },
       {
-        "question": "Weshalb setzt bei einem Fahrzeug mit Einbaumaschine und starrer Welle bei Aufnahme der Rückwärtsfahrt die Ruderwirkung",
+        "question": "Weshalb setzt bei einem Fahrzeug mit Einbaumaschine und starrer Welle bei Aufnahme der Rückwärtsfahrt die Ruderwirkung erst relativ spät ein?",
         "answers": [
           {
             "text": "Weil sie erst mit Anströmung des Ruderblattes einsetzt.",
@@ -1204,7 +1204,7 @@
         ]
       },
       {
-        "question": "Der Motor ist gestartet worden. Was kann die Ursache sein, wenn nach dem Einkuppeln der Antriebswelle der Motor",
+        "question": "Der Motor ist gestartet worden. Was kann die Ursache sein, wenn nach dem Einkuppeln der Antriebswelle der Motor stehen bleibt?",
         "answers": [
           {
             "text": "Blockierter Propeller .",
@@ -1246,7 +1246,7 @@
         ]
       },
       {
-        "question": "Welche Veröffentlichungen enthalten wichtige Regeln und Tipps für Wassersportler, Empfehlungen zur Ausrüstung von",
+        "question": "Welche Veröffentlichungen enthalten wichtige Regeln und Tipps für Wassersportler, Empfehlungen zur Ausrüstung von Sportbooten sowie Hinweise zu umweltgerechtem Verhalten auf dem Wasser?",
         "answers": [
           {
             "text": "Nautische Publikationen wie „Sicherheit auf dem Wasser“ und „Sicher auf See\".",
@@ -1647,7 +1647,7 @@
         ]
       },
       {
-        "question": "Unter welchen Umständen darf von den geltenden Bestimmungen über das Verhalten im Verkehr auf den",
+        "question": "Unter welchen Umständen darf von den geltenden Bestimmungen über das Verhalten im Verkehr auf den Binnenwasserstraßen abgewichen werden?",
         "answers": [
           {
             "text": "Bei unmittelbar drohender Gefahr für sich oder andere.",
@@ -1668,7 +1668,7 @@
         ]
       },
       {
-        "question": "Welche Anforderungen neben der körperlichen und geistigen Tauglichkeit und fachlichen Eignung muss der Führer eines",
+        "question": "Welche Anforderungen neben der körperlichen und geistigen Tauglichkeit und fachlichen Eignung muss der Führer eines Sportbootes auf Binnenschifffahrtsstraßen erfüllen, wenn die größte Nutzleistung der Antriebsmaschine 11,03 kW bei Verbrennungsmotoren bzw. 7,5 kW bei Elektromotoren Betriebsart S 1 (Dauerbetrieb) oder weniger beträgt?",
         "answers": [
           {
             "text": "Mindestalter 16 Jahre.",
@@ -1689,7 +1689,7 @@
         ]
       },
       {
-        "question": "Welche Anforderungen neben der körperlichen und geistigen Tauglichkeit und fachlichen Eignung muss der Führer eines",
+        "question": "Welche Anforderungen neben der körperlichen und geistigen Tauglichkeit und fachlichen Eignung muss der Führer eines Sportbootes auf dem Rhein erfüllen, wenn die Nutzleistung der Antriebsmaschine mehr als 11,03 kW bei Verbrennungsmotoren bzw. 7,5 kW bei Elektromotoren Betriebsart S 1 (Dauerbetrieb) beträgt?",
         "answers": [
           {
             "text": "Besitz eines Sportbootführerscheins mit dem Geltungsbereich Binnenschifffahrtsstraßen für Sportboote mit Antriebsmaschine oder eines gleichgestellten Befähigungszeugnisses.",
@@ -1710,7 +1710,7 @@
         ]
       },
       {
-        "question": "Welche Anforderungen werden an die Person gestellt, mit der der Schifffsführer das Ruder eines Sportbootes mit",
+        "question": "Welche Anforderungen werden an die Person gestellt, mit der der Schiffsführer das Ruder eines Sportbootes mit Antriebsmaschine auf Binnenschifffahrtsstraßen besetzen will?",
         "answers": [
           {
             "text": "Sie muss mindestens 16 Jahre alt und körperlich, geistig und fachlich geeignet sein.",
@@ -1773,7 +1773,7 @@
         ]
       },
       {
-        "question": "Bis zu welcher Schiffslänge berechtigt der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen zum",
+        "question": "Bis zu welcher Schiffslänge berechtigt der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen zum Führen eines Sportbootes?",
         "answers": [
           {
             "text": "Bis zu einer Länge von weniger als 20 m (ohne Ruder und Bugspriet).",
@@ -2151,7 +2151,7 @@
         ]
       },
       {
-        "question": "Mit welchen Zeichen werden Hindernisse wie zum Beispiel Buhnen und Kribben an der rechten Seite der Wasserstraße",
+        "question": "Mit welchen Zeichen werden Hindernisse wie zum Beispiel Buhnen und Kribben an der rechten Seite der Wasserstraße gekennzeichnet?",
         "answers": [
           {
             "text": "Stangen mit Toppzeichen: roter Kegel, Spitze nach unten, oder rot-weiß gestreifte Schwimmstange mit rotem Zylinder .",
@@ -2172,7 +2172,7 @@
         ]
       },
       {
-        "question": "Was kennzeichnet eine grün-weiß gestreifte Schwimmstange mit grünem Kegel, Spitze nach oben, oder eine grüne Tonne",
+        "question": "Was kennzeichnet eine grün-weiß gestreifte Schwimmstange mit grünem Kegel, Spitze nach oben, oder eine grüne Tonne?",
         "answers": [
           {
             "text": "Hindernis an der linken Seite der Wasserstraße.",
@@ -2297,7 +2297,7 @@
           }
         ],
         "image": [
-          "/images/107.png"
+          "images/107.png"
         ]
       },
       {
@@ -2321,8 +2321,8 @@
           }
         ],
         "image": [
-          "/images/108-1.png",
-          "/images/108-2.png"
+          "images/108-1.png",
+          "images/108-2.png"
         ]
       },
       {
@@ -2367,7 +2367,7 @@
           }
         ],
         "image": [
-          "/images/110.png"
+          "images/110.png"
         ]
       },
       {
@@ -2391,7 +2391,7 @@
           }
         ],
         "image": [
-          "/images/111.png"
+          "images/111.png"
         ]
       },
       {
@@ -2415,7 +2415,7 @@
           }
         ],
         "image": [
-          "/images/112.png"
+          "images/112.png"
         ]
       },
       {
@@ -2439,7 +2439,7 @@
           }
         ],
         "image": [
-          "/images/113.png"
+          "images/113.png"
         ]
       },
       {
@@ -2463,7 +2463,7 @@
           }
         ],
         "image": [
-          "/images/114.png"
+          "images/114.png"
         ]
       },
       {
@@ -2487,7 +2487,7 @@
           }
         ],
         "image": [
-          "/images/115.png"
+          "images/115.png"
         ]
       },
       {
@@ -2511,7 +2511,7 @@
           }
         ],
         "image": [
-          "/images/116.png"
+          "images/116.png"
         ]
       },
       {
@@ -2536,7 +2536,7 @@
         ]
       },
       {
-        "question": "In welcher Reihenfolge fahren Fahrzeuge, die nicht Kleinfahrzeuge sind, und Kleinfahrzeuge, die gemeinsam geschleust",
+        "question": "In welcher Reihenfolge fahren Fahrzeuge, die nicht Kleinfahrzeuge sind, und Kleinfahrzeuge, die gemeinsam geschleust werden sollen, in die Schleuse ein?",
         "answers": [
           {
             "text": "Kleinfahrzeuge fahren erst nach den Fahrzeugen, die nicht Kleinfahrzeuge sind und nach Aufforderung durch die Schleusenaufsicht in die Schleuse ein.",
@@ -2557,7 +2557,7 @@
         ]
       },
       {
-        "question": "Mehrere Kleinfahrzeuge sollen gemeinsam vom Oberwasser in das Unterwasser geschleust werden. Worauf ist bei deren",
+        "question": "Mehrere Kleinfahrzeuge sollen gemeinsam vom Oberwasser in das Unterwasser geschleust werden. Worauf ist bei deren Einfahrt in die Schleuse und während des Schleusens besonders zu achten?",
         "answers": [
           {
             "text": "Das letzte Kleinfahrzeug muss so weit einfahren, dass es beim Leeren der Schleuse nicht auf den Drempel aufsetzen kann. Die Festmacherleinen sind so zu bedienen, dass Stöße gegen Schleusenwände, Schleusentore, andere Fahrzeuge vermieden werden und ein sicheres Fieren der Leinen möglich ist.",
@@ -2598,7 +2598,7 @@
           }
         ],
         "image": [
-          "/images/120.png"
+          "images/120.png"
         ]
       },
       {
@@ -2622,7 +2622,7 @@
           }
         ],
         "image": [
-          "/images/121.png"
+          "images/121.png"
         ]
       },
       {
@@ -2646,7 +2646,7 @@
           }
         ],
         "image": [
-          "/images/122.png"
+          "images/122.png"
         ]
       },
       {
@@ -2670,7 +2670,7 @@
           }
         ],
         "image": [
-          "/images/123.png"
+          "images/123.png"
         ]
       },
       {
@@ -2694,7 +2694,7 @@
           }
         ],
         "image": [
-          "/images/124.png"
+          "images/124.png"
         ]
       },
       {
@@ -2718,7 +2718,7 @@
           }
         ],
         "image": [
-          "/images/125.png"
+          "images/125.png"
         ]
       },
       {
@@ -2763,7 +2763,7 @@
           }
         ],
         "image": [
-          "/images/127.png"
+          "images/127.png"
         ]
       },
       {
@@ -2808,7 +2808,7 @@
           }
         ],
         "image": [
-          "/images/129.png"
+          "images/129.png"
         ]
       },
       {
@@ -2853,7 +2853,7 @@
           }
         ],
         "image": [
-          "/images/131.png"
+          "images/131.png"
         ]
       },
       {
@@ -2877,11 +2877,11 @@
           }
         ],
         "image": [
-          "/images/132.png"
+          "images/132.png"
         ]
       },
       {
-        "question": "Ein Kleinfahrzeug unter Segel fährt nachts auf einer Binnenschifffahrtsstraße und führt ein weißes Rundumlicht im Topp. Wie",
+        "question": "Ein Kleinfahrzeug unter Segel fährt nachts auf einer Binnenschifffahrtsstraße und führt ein weißes Rundumlicht im Topp. Wie wird zweckmäßigerweise die weiße Handlampe, die bei Annäherung anderer Fahrzeuge gezeigt werden muss, benutzt?",
         "answers": [
           {
             "text": "Die eigenen Segel anleuchten.",
@@ -2902,7 +2902,7 @@
         ]
       },
       {
-        "question": "Ein Kleinfahrzeug unter Segel fährt nachts auf einer Binnenschifffahrtsstraße und führt ein weißes Rundumlicht im Topp.",
+        "question": "Ein Kleinfahrzeug unter Segel fährt nachts auf einer Binnenschifffahrtsstraße und führt ein weißes Rundumlicht im Topp. Welche zusätzlichen Lichter müssen gesetzt werden, wenn der Motor angeworfen wird?",
         "answers": [
           {
             "text": "Seitenlichter unmittelbar nebeneinander oder in einer einzigen Laterne.",
@@ -2923,7 +2923,7 @@
         ]
       },
       {
-        "question": "Welche Lichter muss ein Kleinfahrzeug unter Motor führen, wenn es ein anderes Kleinfahrzeug ohne Maschinenantrieb",
+        "question": "Welche Lichter muss ein Kleinfahrzeug unter Motor führen, wenn es ein anderes Kleinfahrzeug ohne Maschinenantrieb schleppt?",
         "answers": [
           {
             "text": "Lichter eines Kleinfahrzeugs mit Maschinenantrieb.",
@@ -3028,7 +3028,7 @@
         ]
       },
       {
-        "question": "Wie muss sich ein Segelfahrzeug auf einer Binnenschifffahrtsstraße, welches sich auf Kollisionskurs mit einem Kleinfahrzeug",
+        "question": "Wie muss sich ein Segelfahrzeug auf einer Binnenschifffahrtsstraße, welches sich auf Kollisionskurs mit einem Kleinfahrzeug mit Maschinenantrieb befindet, verhalten?",
         "answers": [
           {
             "text": "Es hält Kurs und Geschwindigkeit bei.",
@@ -3049,7 +3049,7 @@
         ]
       },
       {
-        "question": "Wie muss sich ein Fahrzeug mit Topplicht und Seitenlichtern gegenüber einem Kleinfahrzeug mit Seitenlichtern, welches sich",
+        "question": "Wie muss sich ein Fahrzeug mit Topplicht und Seitenlichtern gegenüber einem Kleinfahrzeug mit Seitenlichtern, welches sich auf Kollisionskurs befindet, verhalten?",
         "answers": [
           {
             "text": "Es hält Kurs und Geschwindigkeit bei.",
@@ -3091,7 +3091,7 @@
         ]
       },
       {
-        "question": "Wer ist ausweichpflichtig, wenn ein Segler mit Wind von Backbord einer Segelyacht mit Wind von Steuerbord und einem",
+        "question": "Wer ist ausweichpflichtig, wenn ein Segler mit Wind von Backbord einer Segelyacht mit Wind von Steuerbord und einem schwarzen Kegel auf Kollisionskurs begegnet?",
         "answers": [
           {
             "text": "Die Segelyacht mit Wind von Steuerbord, weil sie als Kleinfahrzeug mit Maschinenantrieb gilt.",
@@ -3112,7 +3112,7 @@
         ]
       },
       {
-        "question": "Wie lautet eine der drei Grundregeln der Binnenschifffahrtsstraßen-Ordnung, nach denen Kleinfahrzeuge unter Segel einander",
+        "question": "Wie lautet eine der drei Grundregeln der Binnenschifffahrtsstraßen-Ordnung, nach denen Kleinfahrzeuge unter Segel einander ausweichen?",
         "answers": [
           {
             "text": "Wenn sie den Wind nicht von derselben Seite haben, muss das Segelfahrzeug mit Wind von Backbord dem Segelfahrzeug mit Wind von Steuerbord ausweichen.",
@@ -3153,7 +3153,7 @@
           }
         ],
         "image": [
-          "/images/145.png"
+          "images/145.png"
         ]
       },
       {
@@ -3177,7 +3177,7 @@
           }
         ],
         "image": [
-          "/images/146.png"
+          "images/146.png"
         ]
       },
       {
@@ -3201,7 +3201,7 @@
           }
         ],
         "image": [
-          "/images/147.png"
+          "images/147.png"
         ]
       },
       {
@@ -3225,7 +3225,7 @@
           }
         ],
         "image": [
-          "/images/148.png"
+          "images/148.png"
         ]
       },
       {
@@ -3249,7 +3249,7 @@
           }
         ],
         "image": [
-          "/images/149.png"
+          "images/149.png"
         ]
       },
       {
@@ -3273,7 +3273,7 @@
           }
         ],
         "image": [
-          "/images/150.png"
+          "images/150.png"
         ]
       },
       {
@@ -3295,6 +3295,9 @@
             "text": "Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der Seite mit dem rot-weiß-roten Tafelzeichen gestattet; grün- weiß-grüne Seite gesperrt.",
             "isCorrect": false
           }
+        ],
+        "image": [
+          "images/151.png"
         ]
       },
       {
@@ -3318,7 +3321,7 @@
           }
         ],
         "image": [
-          "/images/152.png"
+          "images/152.png"
         ]
       },
       {
@@ -3342,7 +3345,7 @@
           }
         ],
         "image": [
-          "/images/153.png"
+          "images/153.png"
         ]
       },
       {
@@ -3366,7 +3369,7 @@
           }
         ],
         "image": [
-          "/images/154.png"
+          "images/154.png"
         ]
       },
       {
@@ -3390,8 +3393,8 @@
           }
         ],
         "image": [
-          "/images/155-1.png",
-          "/images/155-2.png"
+          "images/155-1.png",
+          "images/155-2.png"
         ]
       },
       {
@@ -3415,7 +3418,7 @@
           }
         ],
         "image": [
-          "/images/156.png"
+          "images/156.png"
         ]
       },
       {
@@ -3439,7 +3442,7 @@
           }
         ],
         "image": [
-          "/images/157.png"
+          "images/157.png"
         ]
       },
       {
@@ -3547,7 +3550,7 @@
           }
         ],
         "image": [
-          "/images/162.png"
+          "images/162.png"
         ]
       },
       {
@@ -3569,6 +3572,9 @@
             "text": "Kursänderung nach Steuerbord.",
             "isCorrect": false
           }
+        ],
+        "image": [
+          "images/163.png"
         ]
       },
       {
@@ -3592,7 +3598,7 @@
           }
         ],
         "image": [
-          "/images/164.png"
+          "images/164.png"
         ]
       },
       {
@@ -3616,7 +3622,7 @@
           }
         ],
         "image": [
-          "/images/165.png"
+          "images/165.png"
         ]
       },
       {
@@ -3640,7 +3646,7 @@
           }
         ],
         "image": [
-          "/images/166.png"
+          "images/166.png"
         ]
       },
       {
@@ -3664,7 +3670,7 @@
           }
         ],
         "image": [
-          "/images/167.png"
+          "images/167.png"
         ]
       },
       {
@@ -3731,7 +3737,7 @@
         ]
       },
       {
-        "question": "Ein Fahrzeug zeigt an der Steuerbordseite seines Ruderhauses eine blaue Tafel mit weißem Funkellicht. Welche Bedeutung",
+        "question": "Ein Fahrzeug zeigt an der Steuerbordseite seines Ruderhauses eine blaue Tafel mit weißem Funkellicht. Welche Bedeutung hat dieses Zeichen?",
         "answers": [
           {
             "text": "Fahrzeuge begegnen sich an Steuerbord. Dieses Zeichen gilt nicht für Kleinfahrzeuge, verpflichtet aber zu erhöhter Aufmerksamkeit.",
@@ -3752,7 +3758,7 @@
         ]
       },
       {
-        "question": "Ein Sportfahrzeug fährt hinter einem Fahrzeug, das nicht Kleinfahrzeug ist, in den Schleusenvorhafen ein. Aus der",
+        "question": "Ein Sportfahrzeug fährt hinter einem Fahrzeug, das nicht Kleinfahrzeug ist, in den Schleusenvorhafen ein. Aus der Schleusenkammer kommt ein Fahrzeug, das an Steuerbord eine blaue Tafel mit einem weißen Funkellicht zeigt. Was bedeutet dieses Zeichen?",
         "answers": [
           {
             "text": "Das aus- und die einfahrenden Fahrzeuge passieren sich an der Steuerbordseite, das Kleinfahrzeug ist nur zu erhöhter Aufmerksamkeit verpflichtet.",
@@ -3857,7 +3863,7 @@
         ]
       },
       {
-        "question": "Ein Kleinfahrzeug und ein Fahrzeug über 20 m Länge nähern sich auf kreuzenden Kursen. Es besteht die Gefahr eines",
+        "question": "Ein Kleinfahrzeug und ein Fahrzeug über 20 m Länge nähern sich auf kreuzenden Kursen. Es besteht die Gefahr eines Zusammenstoßes. Wer ist ausweichpflichtig?",
         "answers": [
           {
             "text": "Ausweichpflichtig ist das Kleinfahrzeug.",
@@ -3899,7 +3905,7 @@
         ]
       },
       {
-        "question": "Wie muss sich ein kreuzendes Kleinfahrzeug unter Segel am Wind in der Nähe eines Ufers gegenüber einem anderen",
+        "question": "Wie muss sich ein kreuzendes Kleinfahrzeug unter Segel am Wind in der Nähe eines Ufers gegenüber einem anderen Kleinfahrzeug verhalten?",
         "answers": [
           {
             "text": "Es darf ein anderes Kleinfahrzeug, das sein steuerbordseitiges Ufer anhält, nicht zum Ausweichen zwingen.",
@@ -3938,6 +3944,9 @@
             "text": "Beide Fahrzeuge sind ausweichpflichtig.",
             "isCorrect": false
           }
+        ],
+        "image": [
+          "images/180.png"
         ]
       },
       {
@@ -3962,7 +3971,7 @@
         ]
       },
       {
-        "question": "Von Backbord kommend kreuzt ein Fahrzeug unter Segel mit einem schwarzen Kegel, Spitze nach unten, den Kurs eines",
+        "question": "Von Backbord kommend kreuzt ein Fahrzeug unter Segel mit einem schwarzen Kegel, Spitze nach unten, den Kurs eines Fahrzeuges mit Maschinenantrieb. Wer ist ausweichpflichtig?",
         "answers": [
           {
             "text": "Das Fahrzeug unter Segel mit einem schwarzen Kegel ist ausweichpflichtig.",
@@ -4001,10 +4010,13 @@
             "text": "Ausweichpflichtig ist das Fahrzeug, welches den Wind von Backbord hat.",
             "isCorrect": false
           }
+        ],
+        "image": [
+          "images/183.png"
         ]
       },
       {
-        "question": "Ein Fahrzeug unter Segel kreuzt eine Binnenschifffahrtsstraße. In der Fahrwassermitte kommt ihm ein Kleinfahrzeug mit",
+        "question": "Ein Fahrzeug unter Segel kreuzt eine Binnenschifffahrtsstraße. In der Fahrwassermitte kommt ihm ein Kleinfahrzeug mit Maschinenantrieb zu Berg entgegen. Wer ist ausweichpflichtig?",
         "answers": [
           {
             "text": "Fahrzeug mit Maschinenantrieb.",
@@ -4043,6 +4055,9 @@
             "text": "B ist ausweichpflichtig. Segelfahrzeuge mit Wind von Steuerbord müssen Segelfahrzeugen mit Wind von Backbord ausweichen.",
             "isCorrect": false
           }
+        ],
+        "image": [
+          "images/185.png"
         ]
       },
       {
@@ -4064,10 +4079,13 @@
             "text": "B ist ausweichpflichtig. Das leeseitige Boot muss dem luvseitigen ausweichen.",
             "isCorrect": false
           }
+        ],
+        "image": [
+          "images/186.png"
         ]
       },
       {
-        "question": "Ein Kleinfahrzeug A segelt nachts auf Vorwindkurs stromab, Großsegel an Steuerbord. Backbord querab kommt ein grünes",
+        "question": "Ein Kleinfahrzeug A segelt nachts auf Vorwindkurs stromab, Großsegel an Steuerbord. Backbord querab kommt ein grünes Seitenlicht eines Bootes B immer näher, das kein Topplicht führt. Wer ist ausweichpflichtig?",
         "answers": [
           {
             "text": "Das Kleinfahrzeug A ist ausweichpflichtig. Ein Boot mit Wind von Backbord muss ausweichen, wenn es nicht klar ausmachen kann, ob das luvseitige Boot den Wind von Steuerbord hat.",
@@ -4106,6 +4124,9 @@
             "text": "Boot C, weil leeseitig.",
             "isCorrect": false
           }
+        ],
+        "image": [
+          "images/188.png"
         ]
       },
       {
@@ -4127,6 +4148,9 @@
             "text": "A gegenüber B und C, C gegenüber B.",
             "isCorrect": false
           }
+        ],
+        "image": [
+          "images/189.png"
         ]
       },
       {
@@ -4172,7 +4196,7 @@
         ]
       },
       {
-        "question": "Ein Kleinfahrzeug unter Segel kreuzt nachts das Fahrwasser. An Backbord tauchen die nachstehenden Lichter eines",
+        "question": "Ein Kleinfahrzeug unter Segel kreuzt nachts das Fahrwasser. An Backbord tauchen die nachstehenden Lichter eines Fahrzeugs auf, das in spitzem Winkel den Kurs des Kleinfahrzeugs unter Segel kreuzen will. Was bedeuten diese Lichter?",
         "answers": [
           {
             "text": "Kleinfahrzeug mit Maschinenantrieb.",
@@ -4190,10 +4214,13 @@
             "text": "Geschlepptes Kleinfahrzeug.",
             "isCorrect": false
           }
+        ],
+        "image": [
+          "images/192.png"
         ]
       },
       {
-        "question": "Ein Kleinfahrzeug unter Segel kreuzt nachts das Fahrwasser. An Backbord tauchen die nachstehenden Lichter eines",
+        "question": "Ein Kleinfahrzeug unter Segel kreuzt nachts das Fahrwasser. An Backbord tauchen die nachstehenden Lichter eines Fahrzeugs auf, das in spitzem Winkel den Kurs des Kleinfahrzeugs unter Segel kreuzen will. Wer ist ausweichpflichtig?",
         "answers": [
           {
             "text": "Kleinfahrzeug mit Maschinenantrieb.",
@@ -4211,10 +4238,13 @@
             "text": "Beide sind ausweichpflichtig.",
             "isCorrect": false
           }
+        ],
+        "image": [
+          "images/193.png"
         ]
       },
       {
-        "question": "Ein Kleinfahrzeug unter Segel und mit Maschinenantrieb kreuzt nachts stromauf. Ein Fahrzeug kommt entgegen, das nur ein",
+        "question": "Ein Kleinfahrzeug unter Segel und mit Maschinenantrieb kreuzt nachts stromauf. Ein Fahrzeug kommt entgegen, das nur ein weißes Licht führt. Was bedeutet dieses Licht?",
         "answers": [
           {
             "text": "Kleinfahrzeug ohne Maschinenantrieb.",
@@ -4235,7 +4265,7 @@
         ]
       },
       {
-        "question": "Ein Kleinfahrzeug unter Segel kreuzt nachts im Fahrwasser. Von achtern kommt ein Fahrzeug, das eine Zweifarbenlaterne",
+        "question": "Ein Kleinfahrzeug unter Segel kreuzt nachts im Fahrwasser. Von achtern kommt ein Fahrzeug, das eine Zweifarbenlaterne und ein Topplicht führt. Was bedeuten diese Lichter?",
         "answers": [
           {
             "text": "Kleinfahrzeug mit Maschinenantrieb.",
@@ -4276,7 +4306,7 @@
           }
         ],
         "image": [
-          "/images/196.png"
+          "images/196.png"
         ]
       },
       {
@@ -4321,7 +4351,7 @@
           }
         ],
         "image": [
-          "/images/198.png"
+          "images/198.png"
         ]
       },
       {
@@ -4345,7 +4375,7 @@
           }
         ],
         "image": [
-          "/images/199.png"
+          "images/199.png"
         ]
       },
       {
@@ -4369,7 +4399,7 @@
           }
         ],
         "image": [
-          "/images/200.png"
+          "images/200.png"
         ]
       },
       {
@@ -4393,7 +4423,7 @@
           }
         ],
         "image": [
-          "/images/201.png"
+          "images/201.png"
         ]
       },
       {
@@ -4417,7 +4447,7 @@
           }
         ],
         "image": [
-          "/images/202.png"
+          "images/202.png"
         ]
       },
       {
@@ -4441,7 +4471,7 @@
           }
         ],
         "image": [
-          "/images/203.png"
+          "images/203.png"
         ]
       },
       {
@@ -4465,7 +4495,7 @@
           }
         ],
         "image": [
-          "/images/204.png"
+          "images/204.png"
         ]
       },
       {
@@ -4868,7 +4898,7 @@
         ]
       },
       {
-        "question": "Unter welchen Voraussetzungen darf außerhalb der ausgewiesenen Strecken/Wasserflächen Wassermotorrad gefahren",
+        "question": "Unter welchen Voraussetzungen darf außerhalb der ausgewiesenen Strecken/Wasserflächen Wassermotorrad gefahren werden?",
         "answers": [
           {
             "text": "Bei Touren- und Wanderfahrten mit klarem Geradeauskurs.",
@@ -4973,7 +5003,7 @@
         ]
       },
       {
-        "question": "Welcher Befähigungsnachweis berechtigt zum Führen eines Sportbootes mit einer Länge von 20 m bis 25 m auf den",
+        "question": "Welcher Befähigungsnachweis berechtigt zum Führen eines Sportbootes mit einer Länge von 20 m bis 25 m auf den Binnenschifffahrtsstraßen außerhalb des Rheins?",
         "answers": [
           {
             "text": "Das Sportschifferzeugnis oder das Sportpatent.",
@@ -5015,7 +5045,7 @@
         ]
       },
       {
-        "question": "Was ist bei der Ausübung des Wassersports auf Gewässern außerhalb der Bundeswasserstraßen (z. B.",
+        "question": "Was ist bei der Ausübung des Wassersports auf Gewässern außerhalb der Bundeswasserstraßen (z. B. Seen) zu beachten?",
         "answers": [
           {
             "text": "Es ist gegebenenfalls die Genehmigung des Eigentümers einzuholen sowie die jeweilige Befahrensordnung zu beachten.",
@@ -5183,7 +5213,7 @@
         ]
       },
       {
-        "question": "Ein Fahrzeug fährt zu Tal. Voraus liegt eine rote Tonne. Auf welcher Fahrrinnenseite befindet sich diese Tonne und an welcher",
+        "question": "Ein Fahrzeug fährt zu Tal. Voraus liegt eine rote Tonne. Auf welcher Fahrrinnenseite befindet sich diese Tonne und an welcher Schiffsseite muss diese Tonne passiert werden?",
         "answers": [
           {
             "text": "Sie befindet sich auf der rechten Fahrrinnenseite und muss an der Steuerbordseite des Schiffes passiert werden.",
@@ -5204,7 +5234,7 @@
         ]
       },
       {
-        "question": "Ein Fahrzeug fährt zu Berg. Voraus liegt eine rote Tonne. Auf welcher Fahrrinnenseite befindet sich diese Tonne und an",
+        "question": "Ein Fahrzeug fährt zu Berg. Voraus liegt eine rote Tonne. Auf welcher Fahrrinnenseite befindet sich diese Tonne und an welcher Schiffsseite muss diese Tonne passiert werden?",
         "answers": [
           {
             "text": "Sie befindet sich auf der rechten Fahrrinnenseite und muss an der Backbordseite des Schiffes passiert werden.",
@@ -5225,7 +5255,7 @@
         ]
       },
       {
-        "question": "Ein Fahrzeug fährt in der Fahrrinne gegen den Strom. Voraus liegt eine grüne Tonne. Auf welcher Fahrrinnenseite befindet",
+        "question": "Ein Fahrzeug fährt in der Fahrrinne gegen den Strom. Voraus liegt eine grüne Tonne. Auf welcher Fahrrinnenseite befindet sich diese Tonne und an welcher Schiffsseite muss diese Tonne passiert werden?",
         "answers": [
           {
             "text": "Sie befindet sich auf der linken Fahrrinnenseite und muss an der Steuerbordseite des Schiffes passiert werden.",
@@ -5287,7 +5317,7 @@
           }
         ],
         "image": [
-          "/images/243.png"
+          "images/243.png"
         ]
       },
       {
@@ -5311,7 +5341,7 @@
           }
         ],
         "image": [
-          "/images/244.png"
+          "images/244.png"
         ]
       },
       {
@@ -6031,7 +6061,7 @@
         ]
       },
       {
-        "question": "Auf einem Amwindkurs wurde gerefft. Ein entgegenkommendes Boot gleichen Typs segelt ungerefft. Wie lässt sich das",
+        "question": "Auf einem Amwindkurs wurde gerefft. Ein entgegenkommendes Boot gleichen Typs segelt ungerefft. Wie lässt sich das erklären?",
         "answers": [
           {
             "text": "Der scheinbare Wind ist auf Amwindkursen stärker, auf Raumschot- und Vorwindkursen schwächer als der wahre Wind.",
@@ -6073,7 +6103,7 @@
         ]
       },
       {
-        "question": "Beim Einfallen einer Bö auf Amwindkurs raumt der scheinbare Wind. Welchen Nutzen kann auf der Kreuz daraus gezogen",
+        "question": "Beim Einfallen einer Bö auf Amwindkurs raumt der scheinbare Wind. Welchen Nutzen kann auf der Kreuz daraus gezogen werden?",
         "answers": [
           {
             "text": "Mitluven, um weitere Höhe zu gewinnen.",
@@ -6283,7 +6313,7 @@
         ]
       },
       {
-        "question": "Um auf Amwindkursen eine Jolle auf Kurs zu halten, muss die Pinne stets stark von der Seite der Segel weggezogen",
+        "question": "Um auf Amwindkursen eine Jolle auf Kurs zu halten, muss die Pinne stets stark von der Seite der Segel weggezogen werden. Wie kann der Trimmfehler behoben werden?",
         "answers": [
           {
             "text": "Großsegel flacher trimmen; Gewichtsverlagerung nach achtern.",
@@ -6304,7 +6334,7 @@
         ]
       },
       {
-        "question": "Um auf Amwindkursen eine Jolle auf Kurs zu halten, muss die Pinne stets stark zur Seite der Segel hingedrückt werden. Wie",
+        "question": "Um auf Amwindkursen eine Jolle auf Kurs zu halten, muss die Pinne stets stark zur Seite der Segel hingedrückt werden. Wie kann der Trimmfehler behoben werden?",
         "answers": [
           {
             "text": "Großsegel bauchiger trimmen, Gewichtsverlagerung nach vorn.",
@@ -6385,6 +6415,9 @@
             "text": "1 Wende, 2 Q-Wende, 3 Halse.",
             "isCorrect": false
           }
+        ],
+        "image": [
+          "images/295.png"
         ]
       },
       {
@@ -6451,7 +6484,7 @@
         ]
       },
       {
-        "question": "Ein Segelboot segelt bei starkem Wind nur unter Großsegel auf Amwindkurs. Plötzlich bricht das Vorstag. Was ist sofort zu",
+        "question": "Ein Segelboot segelt bei starkem Wind nur unter Großsegel auf Amwindkurs. Plötzlich bricht das Vorstag. Was ist sofort zu unternehmen?",
         "answers": [
           {
             "text": "Abfallen auf Vorwindkurs.",
@@ -6472,7 +6505,7 @@
         ]
       },
       {
-        "question": "Ein Segelboot segelt bei starkem Wind nur unter Großsegel auf Amwindkurs. Plötzlich bricht das Vorstag. Womit kann das",
+        "question": "Ein Segelboot segelt bei starkem Wind nur unter Großsegel auf Amwindkurs. Plötzlich bricht das Vorstag. Womit kann das gebrochene Vorstag schnell provisorisch ersetzt werden?",
         "answers": [
           {
             "text": "Durch die Fock oder ein Fall.",
